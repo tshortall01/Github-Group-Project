@@ -3,7 +3,7 @@ function createQuote(quote, callback){
     callback(myQuote);
   }
   
-  function logQuote(quote)
+  function logQuote(quote){
     console.log(quote);
   }
   
